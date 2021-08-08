@@ -1,3 +1,4 @@
+![447-4475833_kali-linux-png]()
 # Dilanka Kaushal Hewage
  <div>
   <a href="https://github.com/3hydraking">
@@ -18,7 +19,7 @@
  </div>
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Hydra-Js" height="30" width="40" src="https://user-images.githubusercontent.com/66146701/128632113-b240a0a3-439f-4979-a971-a66033978f67.png">
+  <img align="center" alt="Hydra-Js" height="30" width="40" src="https://user-images.githubusercontent.com/66146701/128632135-e957aded-600a-4adc-877a-2219e4de31dd.png">
   <img align="center" alt="Hydra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Hydra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hydra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
