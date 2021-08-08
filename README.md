@@ -1,3 +1,4 @@
+
 # Dilanka Kaushal Hewage
  <div>
   <a href="https://github.com/3hydraking">
@@ -25,6 +26,6 @@
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![hydra](https://user-images.githubusercontent.com/66146701/128629541-10c229ca-4c19-48fa-b39b-e0dd5e5926f9.png)
  
 </div>
