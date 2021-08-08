@@ -19,7 +19,7 @@
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Hydra-Kali" height="40" width="40" src="https://user-images.githubusercontent.com/66146701/128632135-e957aded-600a-4adc-877a-2219e4de31dd.png">
-  <img align="center" alt="Hydra-Ts" height="30" width="40" src="https://user-images.githubusercontent.com/66146701/128632202-dab866c1-03fa-435d-aec6-1a24f375f34d.png">
+  <img align="center" alt="Hydra-Ts" height="30" width="40" src="https://user-images.githubusercontent.com/66146701/128632241-290feb31-c506-4507-b75f-1a0c8b19f543.png">
   <img align="center" alt="Hydra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hydra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
