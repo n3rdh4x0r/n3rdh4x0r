@@ -28,13 +28,6 @@
   <img align="center" alt="Hydra-Parrot" height="35" width="37" src="https://user-images.githubusercontent.com/66146701/128632325-152993af-79bb-4eb2-a79d-a33e540dc80d.png">
 
 </div>
-  
-  ##
-
-<div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Hydra-HTB" height="70" width="70" src="https://user-images.githubusercontent.com/66146701/128632605-4fe4effb-ee90-4e91-a9e0-7f6d84eaa77e.png">
-</div>
 
  ##
   
