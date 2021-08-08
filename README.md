@@ -13,7 +13,7 @@
   <img align="center" alt="Hydra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hydra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hydra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Hydra-Go" height="40" width="30" src="https://user-images.githubusercontent.com/66146701/128631907-ac3b8a11-b9d2-4253-9688-d3b45a935d20.png">
+  <img align="center" alt="Hydra-Go" height="35" width="30" src="https://user-images.githubusercontent.com/66146701/128631907-ac3b8a11-b9d2-4253-9688-d3b45a935d20.png">
   <img align="right" alt="Hydra-hydra" height="80" width="80" src="https://user-images.githubusercontent.com/66146701/128629671-6769a987-522f-4e43-9896-1605ebc5f1e0.png">
 
  </div>
