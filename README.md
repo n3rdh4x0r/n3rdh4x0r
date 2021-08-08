@@ -22,8 +22,8 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Hydra-Kali" height="40" width="40" src="https://user-images.githubusercontent.com/66146701/128632135-e957aded-600a-4adc-877a-2219e4de31dd.png">
   <img align="center" alt="Hydra-Arch" height="40" width="40" src="https://user-images.githubusercontent.com/66146701/128632241-290feb31-c506-4507-b75f-1a0c8b19f543.png">
-  <img align="center" alt="Hydra-Parrot" height="40" width="42" src="https://user-images.githubusercontent.com/66146701/128632325-152993af-79bb-4eb2-a79d-a33e540dc80d.png">
-  <img align="center" alt="Hydra-Debian" height="40" width="42" src="https://user-images.githubusercontent.com/66146701/128632429-9f2732b1-bed0-4553-9f86-30a1d7922d94.png">
+  <img align="center" alt="Hydra-Parrot" height="35" width="37" src="https://user-images.githubusercontent.com/66146701/128632325-152993af-79bb-4eb2-a79d-a33e540dc80d.png">
+  <img align="center" alt="Hydra-Debian" height="35" width="37" src="https://user-images.githubusercontent.com/66146701/128632429-9f2732b1-bed0-4553-9f86-30a1d7922d94.png">
 </div>
   
   ##
