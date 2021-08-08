@@ -1,4 +1,3 @@
-![447-4475833_kali-linux-png]()
 # Dilanka Kaushal Hewage
  <div>
   <a href="https://github.com/3hydraking">
