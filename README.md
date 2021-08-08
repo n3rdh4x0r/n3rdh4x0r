@@ -14,9 +14,10 @@
   <img align="center" alt="Hydra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Hydra-Go" height="30" width="40" src="https://user-images.githubusercontent.com/66146701/128631907-ac3b8a11-b9d2-4253-9688-d3b45a935d20.png">
   <img align="right" alt="Rafa-yoda" height="80" width="80" src="https://user-images.githubusercontent.com/66146701/128629671-6769a987-522f-4e43-9896-1605ebc5f1e0.png">
+
+ </div>
  
- 
- 
+ <div style="display: inline_block"><br>
   <img align="center" alt="Hydra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hydra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Hydra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
