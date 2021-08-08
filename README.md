@@ -33,7 +33,7 @@
 
 <div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Hydra-HTB" height="60" width="58" src="https://user-images.githubusercontent.com/66146701/128632605-4fe4effb-ee90-4e91-a9e0-7f6d84eaa77e.png">
+ <img align="center" alt="Hydra-HTB" height="70" width="70" src="https://user-images.githubusercontent.com/66146701/128632605-4fe4effb-ee90-4e91-a9e0-7f6d84eaa77e.png">
 </div>
 
  ##
