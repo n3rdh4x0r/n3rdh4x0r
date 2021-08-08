@@ -1,4 +1,3 @@
-![HTB]()
 # Dilanka Kaushal Hewage
  <div>
   <a href="https://github.com/3hydraking">
