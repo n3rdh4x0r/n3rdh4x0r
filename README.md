@@ -1,4 +1,4 @@
-# Dilanka Kaushal Hewage
+# Dilanka Kaushal
  <div>
   <a href="https://github.com/3hydraking">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3hydraking&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
