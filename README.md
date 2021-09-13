@@ -38,6 +38,6 @@
   <a href = "mailto:1nf1n17yk1ng@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dilankakaushal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/3hydraking/grid-snake/blob/main/grid-snake.svg)
+  ![Snake animation](https://github.com/1nf1n17yk1ng/grid-snake/blob/main/grid-snake.svg)
  
 </div>
