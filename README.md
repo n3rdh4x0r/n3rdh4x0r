@@ -1,4 +1,4 @@
-# Dilanka Kaushal Hewage (**n3rdyn3xus**)
+# Dilanka Kaushal Hewage (**N3rdyN3xus**)
 <div>
   <a href="https://github.com/n3rdyn3xus">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n3rdyn3xus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_buster=1"/>
