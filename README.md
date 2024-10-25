@@ -1,8 +1,8 @@
-# Dilanka Kaushal Hewage (**NyxByt3**)
+# Dilanka Kaushal Hewage (**h3xcr4ck3r**)
 <div>
-  <a href="https://github.com/n3rdyn3xus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n3rdyn3xus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_buster=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdyn3xus&layout=compact&langs_count=7&theme=dracula&cache_buster=1"/>
+  <a href="https://github.com/h3xcr4ck3r">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h3xcr4ck3r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_buster=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3xcr4ck3r&layout=compact&langs_count=7&theme=dracula&cache_buster=1"/>
   </a>
 </div>
 
@@ -30,12 +30,12 @@
 ##
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@N3rdyN3xus" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/n3rdyn3xus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/n3rdyn3xus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://www.youtube.com/@h3xcr4ck3r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/h3xcr4ck3r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitch.tv/h3xcr4ck3r" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://discord.gg/NETZmZYd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:n3rdyn3xus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/n3rdyn3xus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:h3xcr4ck3r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/h3xcr4ck3r" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ![Snake animation](https://github.com/c0d3cr4f73r/grid-snake/blob/main/grid-snake.svg)
