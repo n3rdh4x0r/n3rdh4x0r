@@ -7,9 +7,6 @@
   </a>
 </div>
 
----
-
-### **Technologies & Tools**
 <div align="center" style="margin-top: 20px;">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,9 +19,6 @@
   <img alt="Linux" height="80" src="https://user-images.githubusercontent.com/66146701/128629671-6769a987-522f-4e43-9896-1605ebc5f1e0.png">
 </div>
 
----
-
-### **Operating Systems**
 <div align="center" style="margin-top: 20px;">
   <img alt="Arch Linux" height="50" src="https://user-images.githubusercontent.com/66146701/128632241-290feb31-c506-4507-b75f-1a0c8b19f543.png">
   <img alt="Debian" height="50" src="https://user-images.githubusercontent.com/66146701/128632429-9f2732b1-bed0-4553-9f86-30a1d7922d94.png">
@@ -32,9 +26,6 @@
   <img alt="Parrot OS" height="50" src="https://user-images.githubusercontent.com/66146701/128632325-152993af-79bb-4eb2-a79d-a33e540dc80d.png">
 </div>
 
----
-
-### **Connect with Me**
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.youtube.com/@n3rdh4x0r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.instagram.com/n3rdh4x0r" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -44,7 +35,4 @@
   <a href="https://www.linkedin.com/in/n3rdh4x0r" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
----
-
-### **Activity**
 ![Snake animation](https://github.com/n3rdh4x0r/grid-snake/blob/main/grid-snake.svg)
