@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/n3rdh4x0r">
-    <img height="180em" src="https://vercel-kea96tz6e-n3rdh4x0rs-projects.vercel.app/api?username=n3rdh4x0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://vercel-kea96tz6e-n3rdh4x0rs-projects.vercel.app/api/top-langs/?username=n3rdh4x0r&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n3rdh4x0r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdh4x0r&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
   </a>
 </div>
 
