@@ -8,17 +8,12 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C" height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg">
+  <img alt="C++" height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg">
   <img alt="CSharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="GoLang" height="40" src="https://user-images.githubusercontent.com/66146701/128631907-ac3b8a11-b9d2-4253-9688-d3b45a935d20.png">
-  <img alt="Linux" height="80" src="https://user-images.githubusercontent.com/66146701/128629671-6769a987-522f-4e43-9896-1605ebc5f1e0.png">
+  <img alt="Rust" height="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/rust.svg">
 </div>
-
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.youtube.com/@n3rdh4x0r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
