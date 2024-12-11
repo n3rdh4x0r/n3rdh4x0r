@@ -38,4 +38,4 @@
   <a href="https://www.linkedin.com/in/n3rdh4x0r" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/c0d3cr4f73r/grid-snake/blob/main/grid-snake.svg)
+![Snake animation](https://github.com/n3rdh4x0r/grid-snake/blob/main/grid-snake.svg)
