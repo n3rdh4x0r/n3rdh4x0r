@@ -1,4 +1,4 @@
-# **Dilanka Kaushal Hewage** (**n3rdh4x0r**)
+# **n3rdh4x0r**
 
 <div align="center">
   <a href="https://github.com/n3rdh4x0r">
